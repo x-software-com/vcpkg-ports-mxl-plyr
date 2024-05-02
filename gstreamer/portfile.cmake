@@ -9,7 +9,7 @@ vcpkg_from_gitlab(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO gstreamer/gstreamer
     REF "${VERSION}"
-    SHA512 83d60c821977fb85ed85f48291cabb7e38500adb2a98bcbed0431b965c2d2692cdebc727e4a772ef7ff79f9a24ffd3cea05ca802e070c23e54c9844471478aa6
+    SHA512 93639e325e463648b88f3f637380805aecbe2e463ed6963ebea3ad4760f869399b5a150b577b3ab2a7b89e9637783e9864208c1b07342e8d22770a4953b9a4fe
     HEAD_REF main
     PATCHES
         fix-compositor-seeking.patch
