@@ -288,7 +288,7 @@ vcpkg_configure_meson(
         -Dgst-plugins-bad:transcode=disabled
         -Dgst-plugins-bad:ttml=disabled
         -Dgst-plugins-bad:uvch264=disabled
-        -Dgst-plugins-bad:va=disabled
+        -Dgst-plugins-bad:va=enabled
         -Dgst-plugins-bad:voaacenc=disabled
         -Dgst-plugins-bad:voamrwbenc=disabled
         -Dgst-plugins-bad:vulkan=${PLUGIN_BAD_VULKAN}
