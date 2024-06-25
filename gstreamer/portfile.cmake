@@ -12,9 +12,6 @@ vcpkg_from_gitlab(
     SHA512 8dc9dee573594e3d08bbb15369edc1508e56fa4f421ae1d967990bd85f07e859cf5a29550ef5f8a410187b8fa5428f8e951ee948cd2b97a51f43c46b6023a90c
     HEAD_REF main
     PATCHES
-        fix-compositor-seeking.patch
-        fix-gst-play-seek.patch
-        fix-mxl-v1-tags.patch
         fix-clang-cl.patch
         # fix-clang-cl-gstreamer.patch
         # fix-clang-cl-base.patch
